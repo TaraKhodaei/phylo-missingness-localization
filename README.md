@@ -222,9 +222,13 @@ install.packages("ape")
 Run all analysis commands from the repository root.
 
 
+
 ## Citation
 
-Citation information will be updated when the associated manuscript is publicly available.
+Khodaei, M., Hupert, N., & RoyChoudhury, A. (2026).
+Localizing Unsampled Regions in Partially Sampled Pathogen Phylogenies Using Machine Learning.
+*bioRxiv*. https://doi.org/10.64898/2026.11.18.767590
+
 
 
 
